@@ -11,3 +11,5 @@ Toda a personalização fica em `src/data/studioData.js`.
 Demo: https://caroline-albuquerque-nail-designer-joao-pessoa.vercel.app
 
 Pendentes: valores reais (o site usa estimativa), depoimentos.
+
+Demo: https://dona-beauty-joao-pessoa.vercel.app
